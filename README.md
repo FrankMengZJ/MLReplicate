@@ -1,7 +1,7 @@
-# MLReplicate
+# Replicate ML Papers
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>1980-90s</summary>
 
   This is a detailed explanation hidden inside a foldable panel.
 </details>
