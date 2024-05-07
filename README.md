@@ -2,7 +2,7 @@
 
 <details>
   <summary>1980-90s</summary>
-  Backpropagation applied to handwritten Zip code recognition. (1989). MIT Press Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/6795724
+  LeCun, Y., Boser, B., Denker, J. S., Henderson, D., Howard, R. E., Hubbard, W., & Jackel, L. D. (1989). Backpropagation applied to handwritten zip code recognition. Neural Computation, 1(4), 541–551. https://doi.org/10.1162/neco.1989.1.4.541 
 
 
 </details>
