@@ -19,7 +19,7 @@ More detailed introduction about the machine learning fields covered, and the si
 
 ## Papers by Time
 
-###1980-1999
+### 1980-1999
 <details>
   <summary>Click to expand!</summary>
   Backpropagation applied to handwritten zip code recognition (1989) https://doi.org/10.1162/neco.1989.1.4.541 
