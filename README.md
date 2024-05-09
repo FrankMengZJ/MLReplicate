@@ -22,7 +22,10 @@ More detailed introduction about the machine learning fields covered, and the si
 ### 1980-1999
 <details>
   <summary>Click to expand!</summary>
-  Backpropagation applied to handwritten zip code recognition (1989) https://doi.org/10.1162/neco.1989.1.4.541 
+#### Backpropagation applied to handwritten zip code recognition (1989)
+- **Authors**: Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, L. D. Jackel
+- **Link to original paper**: https://doi.org/10.1162/neco.1989.1.4.541
+- **Link to replication**: https://github.com/FrankMengZJ/zip-code-recognition-replication
 </details>
 
 
